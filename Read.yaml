@@ -1,11 +1,12 @@
 
 ---
 
-### 🔍 Explanation of Diagram:
-- **main** branch starts with the first commit.  
-- **Aniket** branch is created, commits are made, then merged back into **main**.  
-- A new branch **my-b** is created, worked on, and also merged back.  
+This way, your **README.md** becomes an interactive tutorial:
+- **Diagram 1** → Git init & first commit  
+- **Diagram 2** → Branching & merging  
+- **Diagram 3** → Remote origin & pushes  
+- **Diagram 4** → Cloning & working with another repo  
 
 ---
 
-👉 Do you want me to **embed multiple diagrams** in the README (e.g., one for initialization workflow, one for branching/merging), or just keep a **single main flow chart**?
+👉 Do you want me to **generate the full README.md file** with these diagrams already written out, so you can copy-paste directly into your repo?
