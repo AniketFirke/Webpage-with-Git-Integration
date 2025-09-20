@@ -4,7 +4,7 @@ This document provides a step-by-step guide for initializing a Git repository lo
 
 ---
 
-## 📌 Part 1: Initialize Repository and First Commit
+## 📌  Initialize Repository and First Commit
 
 ```bash
 # Open Git Bash
